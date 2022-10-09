@@ -7,6 +7,8 @@
 
 This is a simple stepfunction CDK project with TypeScript.
 
+<img src="assets/img/workflow.png" />
+
 <br/>
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
